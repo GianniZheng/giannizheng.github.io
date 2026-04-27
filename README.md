@@ -110,7 +110,7 @@
 │  ↓                                                       │
 │  Switch from Art Track → Computer Science                │
 │  ↓                                                       │
-│  COURSES & CERTIFICATIONS (Federica Web Learning)       │
+│  COURSES & CERTIFICATIONS (Federica Web Learning)        │
 │  • AI Basics                                             │
 │  • Data Science                                          │
 │  • Programming Lab                                       │

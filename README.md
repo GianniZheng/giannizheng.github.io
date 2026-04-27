@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║         🌟 FULL STACK DEVELOPER | TECH ENTHUSIAST 🌟        ║
 ║                                                              ║ 
-║           📍 Italy | Chinese Origins | 💻 Tech             ║
+║           📍 Italy | Chinese Origins | 💻 Tech              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 

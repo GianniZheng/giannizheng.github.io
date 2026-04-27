@@ -116,7 +116,7 @@
 │  • Programming Lab                                       │
 │  • Computer Science Fundamentals                         │
 │  ↓                                                       │
-│  PCTO Tech7 (May 2024 - January 2025)                   │
+│  PCTO Tech7 (May 2024 - January 2025)                    │
 │  • Web Developer Role                                    │
 │  • Professional Experience                               │
 │  ↓                                                       │
@@ -124,7 +124,7 @@
 │  • Intensive Web Development Path                        │
 │  • Front-end & Back-end Focus                            │
 │  ↓                                                       │
-│  ITS TECH TALENT FACTORY (2026 - In Progress)           │
+│  ITS TECH TALENT FACTORY (2026 - In Progress)            │
 │  • Full Stack Developer Course                           │
 │  • Higher Technical Education                            │
 │  • Modern Technologies & Best Practices                  │
@@ -188,10 +188,12 @@
 
 **🌟Made by Gianni Zheng 🌟**
 
+</div> 
+
 ```
 ╔═══════════════════════════════════════╗
 ║  Always Learning. Always Growing.     ║
 ╚═══════════════════════════════════════╝
 ```
 
-</div>
+
